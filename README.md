@@ -1,4 +1,4 @@
-# Avance-de-proyecto
+# Proyecto Final
 
 > [!IMPORTANT]
 > Este proyecto es una tienda en línea de ropa, una página web desarrollada con MongoDB, Express, React y Node.js (¡MERN!). En la carpeta de 'entregables' hay una demostración de cómo funciona la página cuando las variables de ambiente tienen los datos necesarios.
