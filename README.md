@@ -11,11 +11,10 @@ Para que esto funcionara, se hizo un despliegue del backend en Render, conectamo
 
 > *Equipo 1 - Sr Lucxs Studio*
 
- - MHQ 3001084
- - JMDR 7090780
- - DHH 2989955
- - IARE 7051100
-
+ - MHQ 3001084 [@WahWau](https://github.com/WahWau)
+ - JMDR 7090780 [@SrLucas-tecx](https://github.com/SrLucas-tecx)
+ - IARE 7051100 [@ivethalex2006-ui](https://github.com/ivethalex2006-ui)
+ - DHH 2989955 [@CikiUmi](https://github.com/CikiUmi)
 
 - - - - - - - - - - - - - - - - - - - - - 
 ## **Endpoints de la API (operaciones CRUD)**
